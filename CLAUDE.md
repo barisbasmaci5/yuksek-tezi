@@ -61,5 +61,16 @@ Her oturumun başında bu dosyayı ve `notlar/ilerleme.md` dosyasını oku.
 - Öğrenci düz metin, not ya da madde işaretiyle gelebilir. Görev bunu akademik metne çevirmek ve geliştirmek. Anlamı değiştirme.
 - Bir bölümde değişiklik yapınca sadece o bölümü düzenle. Tüm dosyayı baştan yazma.
 - Her oturum sonunda `notlar/ilerleme.md` güncellenir, değişiklikler commit edilip push edilir.
-- Maliyet önemli (sınırlı kredi). Alt ajan başlatma, gereksiz dosya okuma. Kısa ve odaklı çalış.
-- Teze özel komutlar `.claude/commands/` içindedir: `/kaynak-ozetle`, `/bolum-yaz`, `/dil-kontrol`, `/atif-kontrol`, `/tutarlilik`, `/word-cikti`, `/kaydet`.
+- Maliyet önemli (sınırlı kredi). Gereksiz dosya okuma; kısa ve odaklı çalış.
+- Teze özel komutlar `.claude/commands/` içindedir: `/kaynak-ozetle`, `/bolum-yaz`, `/dil-kontrol`, `/atif-kontrol`, `/tutarlilik`, `/word-cikti`, `/kaydet`, `/hakem-incele`, `/kaynak-dogrula`.
+
+## Ajanlar
+
+Yalnızca iki ajan vardır (`.claude/agents/`) ve yalnızca öğrenci istediğinde ya da ilgili komut çalıştırıldığında başlatılır. Başka alt ajan (ECC ajanları dahil) başlatma.
+
+| Ajan | Model | Ne zaman |
+|------|-------|----------|
+| `hakem` | sonnet | Bir metin (özet, bildiri, bölüm) bittiğinde bağımsız değerlendirme için — `/hakem-incele` |
+| `kaynak-dogrulayici` | haiku | Yeni kaynak listesi geldiğinde DOI doğrulaması ve `kaynaklar.bib` girişi için — `/kaynak-dogrula` |
+
+Hakeme bu konuşmadaki bağlamı ya da kendi görüşünü verme; yalnızca dosya yolunu ve metin türünü ver.
