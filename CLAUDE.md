@@ -7,17 +7,22 @@ Her oturumun başında bu dosyayı ve `notlar/ilerleme.md` dosyasını oku.
 
 > `[DOLDURULACAK]` yazan yerler öğrenciyle birlikte doldurulur. Boş alanı tahminle doldurma, sor.
 
-- **Başlık:** [DOLDURULACAK]
-- **Öğrenci:** [DOLDURULACAK]
-- **Danışman:** [DOLDURULACAK]
-- **Üniversite / Enstitü / Anabilim Dalı:** [DOLDURULACAK]
-- **Konu (2-3 cümle):** [DOLDURULACAK]
+> Kaynak: `belgeler/BAP-proje-basvurusu.docx` (YTÜ BAP Yüksek Lisans projesi).
+
+- **Başlık (çalışma başlığı, BAP):** Atık Yumurta Kabuğundan Kalsiyum Silikat Hidrat Sentezi ve Uygulama Alanının İncelenmesi
+- **Öğrenci:** Barış BASMACI
+- **Danışman:** Prof. Dr. Müge SARI YILMAZ
+- **Üniversite / Enstitü / Anabilim Dalı:** Yıldız Teknik Üniversitesi, Fen Bilimleri Enstitüsü, Kimya Mühendisliği Anabilim Dalı
+- **Konu:** Yumurta kabuğu atığından kalsinasyonla (950 °C) CaO elde edilir; sodyum metasilikat pentahidrat ile hidrotermal (otoklav) yöntemle C-S-H sentezlenir. En uygun C-S-H, CEM I 42,5N çimento harçlarında tohumlama (seeding) katkısı olarak denenir.
 - **Araştırma soruları / hipotezler:**
-  1. [DOLDURULACAK]
-- **Kullanılan malzemeler:** [DOLDURULACAK]
-- **Kullanılan yöntemler:** [DOLDURULACAK — örn. XRD (Rietveld), FTIR, SEM-EDS, TGA/DTA, basınç/eğilme dayanımı]
+  1. Yumurta kabuğundan elde edilen CaO ile yüksek C-S-H içerikli ürün sentezlenebilir mi? Ca/Si oranı (0,8–1,6), otoklav sıcaklığı (140–180 °C) ve süresi (24–72 sa) ürünü nasıl etkiler?
+  2. Bu C-S-H, çimento hidratasyonunu hızlandırarak erken yaş dayanımını artırır mı? (BAP başarı ölçütü: referansa göre ≥ %10 dayanım artışı)
+  3. Optimum katkı oranı nedir (%1–5)?
+- **Kullanılan malzemeler:** Yumurta kabuğu (evsel atık), sodyum metasilikat pentahidrat, CEM I 42,5N, PCE dispersan (çimentonun kütlece %0,1'i), su/çimento = 0,35.
+- **Kullanılan yöntemler:** Kalsinasyon, hidrotermal sentez; XRD-Rietveld, FTIR, TG/DTA (SEM-EDS ve izotermal kalorimetre BAP özetinde geçiyor, yapılıp yapılmadığı öğrenciye sorulmalı); TS EN 197-1'e göre 2, 7, 28 gün eğilme/basınç dayanımı; asetonla hidratasyon durdurma (2, 7, 14, 28 gün).
 - **Kaynak gösterme stili:** APA 7 (`sablon/apa.csl`) — enstitü numaralı stil isterse `sablon/ieee.csl` kullanılır.
-- **Enstitü yazım kılavuzu:** [DOLDURULACAK — kılavuz `sablon/` içine konunca buraya özetle]
+- **Enstitü şablonu:** `sablon/YTU_Tez_Sablon.docx` (YTÜ FBE, 24.02.2026). Şablonda **Üretken Yapay Zekâ (ÜYZ) kullanım beyanı** sayfası var; bu ortam kullanıldığı için "ÜYZ kullanılmışsa" beyanı seçilmeli.
+- **Literatür:** BAP başvurusunda 20 kaynak var (henüz `kaynaklar.bib` içine aktarılmadı, DOI doğrulaması gerekli). Drive'da Elicit C-S-H literatür listesi (xlsx) mevcut.
 
 ## Repo düzeni
 
