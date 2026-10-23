@@ -1,0 +1,12 @@
+---
+title: "[TEZ BAŞLIĞI]"
+author: "[AD SOYAD]"
+subtitle: "YÜKSEK LİSANS TEZİ"
+lang: tr-TR
+bibliography: kaynakca/kaynaklar.bib
+csl: sablon/apa.csl
+reference-section-title: KAYNAKLAR
+link-citations: true
+figureTitle: "Şekil"
+tableTitle: "Çizelge"
+---
