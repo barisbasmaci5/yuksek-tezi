@@ -4,6 +4,8 @@ Her oturum sonunda güncellenir. En yeni kayıt en üstte.
 
 ## Açık işler
 
+- [ ] Konferans özeti: verileri `veriler/` klasörüne, konferans şablonunu `konferans/` klasörüne yükle
+
 - [ ] Tez bilgilerini `CLAUDE.md` içinde doldur (başlık, konu, araştırma soruları, malzeme ve yöntemler)
 - [ ] Enstitü yazım kılavuzunu ve Word şablonunu `sablon/` klasörüne ekle
 - [ ] Kaynak gösterme stilini netleştir (APA mı, numaralı mı?)
