@@ -6,11 +6,10 @@ Her oturum sonunda güncellenir. En yeni kayıt en üstte.
 
 - [ ] Konferans özeti: verileri `veriler/` klasörüne, konferans şablonunu `konferans/` klasörüne yükle
 
-- [ ] Konferans özeti: SEM-EDS yapıldı mı, numune harç mı hamur mu, sentez yöntemi (hidrotermal mi, oda sıcaklığı + amorf silika mı — Türkçe özetle çelişiyor) öğrenciden teyit
 - [ ] Konferans: son tarih, özet dili ve sunum türünü öğrenciden al
 - [ ] Konferans: deney verileri gelince özeti gerçek sonuçlarla yeniden yaz
 - [ ] BAP'taki 20 kaynağı DOI ile doğrulayıp `kaynaklar.bib` dosyasına aktar
-- [ ] SEM-EDS ve izotermal kalorimetre yapıldı mı? (BAP özetinde var, iş paketlerinde yok)
+- [ ] İzotermal kalorimetre yapılacak mı? (SEM-EDS yapılacak — öğrenci, 2026-11-10)
 - [ ] Kaynak gösterme stilini netleştir (APA mı, numaralı mı?)
 - [ ] Mevcut kaynakları `kaynakca/kaynaklar.bib` dosyasına aktar
 
@@ -26,6 +25,7 @@ Her oturum sonunda güncellenir. En yeni kayıt en üstte.
 - İngilizce konferans özeti şablona göre yazıldı: `konferans/ozet-abstract.docx` (metin: `konferans/ozet.md`), 320 kelime, sonuç verisi içermiyor.
 - Dipnot tamamlandı: BAP proje no FYL-2026-7646 ve üç yazarın ORCID numaraları.
 - Durum (öğrenci, 2026-11-10): sentez devam ediyor, uygulama (çimento) deneyleri bitmedi. Özette sentez şimdiki zaman, uygulama gelecek zaman yazıldı.
+- Öğrenci teyidi: sentez oda sıcaklığında amorf silika ile (hidrotermal değil), SEM-EDS yapılacak, numuneler harç. Özet ve `CLAUDE.md` buna göre güncellendi.
 - Üçüncü yazar eklendi (Nevin KARAMAHMUT MERMER — Drive taslağından). Dayanım standardı TS EN 197-1 yerine TS EN 196-1 yazıldı.
 - Drive'daki KALEKİM raporu (ticari C-S-H, "hizmete özel") sonuçları özete alınmadı; yalnızca yöntem ayrıntıları (PCE %0,1, s/ç 0,35, çözücü değişimi) kullanıldı.
 

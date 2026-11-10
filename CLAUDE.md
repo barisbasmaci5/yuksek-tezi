@@ -14,6 +14,7 @@ Her oturumun başında bu dosyayı ve `notlar/ilerleme.md` dosyasını oku.
 - **Danışman:** Prof. Dr. Müge SARI YILMAZ
 - **Üniversite / Enstitü / Anabilim Dalı:** Yıldız Teknik Üniversitesi, Fen Bilimleri Enstitüsü, Kimya Mühendisliği Anabilim Dalı
 - **Konu:** Yumurta kabuğu atığından kalsinasyonla (950 °C) CaO elde edilir; sodyum metasilikat pentahidrat ile hidrotermal (otoklav) yöntemle C-S-H sentezlenir. En uygun C-S-H, CEM I 42,5N çimento harçlarında tohumlama (seeding) katkısı olarak denenir.
+- **Güncel yöntem (öğrenci beyanı, 2026-11-10 — BAP metninden farklı, bu geçerlidir):** C-S-H, CaO ile **amorf silikanın oda sıcaklığında sulu ortamda** tepkimesiyle sentezlenir (hidrotermal/otoklav ve sodyum metasilikat değil); değişkenler Ca/Si (0,8–1,6) ve yaşlandırma süresi (24–72 sa). SEM-EDS yapılacak. Uygulama numuneleri harçtır. Sentez sürüyor, uygulama deneyleri bitmedi.
 - **Araştırma soruları / hipotezler:**
   1. Yumurta kabuğundan elde edilen CaO ile yüksek C-S-H içerikli ürün sentezlenebilir mi? Ca/Si oranı (0,8–1,6), otoklav sıcaklığı (140–180 °C) ve süresi (24–72 sa) ürünü nasıl etkiler?
   2. Bu C-S-H, çimento hidratasyonunu hızlandırarak erken yaş dayanımını artırır mı? (BAP başarı ölçütü: referansa göre ≥ %10 dayanım artışı)
