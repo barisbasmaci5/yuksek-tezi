@@ -1,10 +1,14 @@
-# [BAŞLIK]
+<!-- Güncel İngilizce özet (2026-11-10). Biçimli sürüm: ozet-abstract.docx (konferans şablonu).
+     Deney sonucu içermez; veriler/ dolunca bulgu cümleleri eklenecek. -->
 
-[Yazarlar ve kurumlar]
+SYNTHESIS OF CALCIUM SILICATE HYDRATE FROM A WASTE-DERIVED CALCIUM SOURCE[1]
 
-<!-- Yapı: arka plan (1-2 cümle) → amaç → malzeme ve yöntem → temel bulgular (sayısal) → sonuç / katkı.
-     Yalnızca veriler/ klasöründeki gerçek sonuçlara dayanır. -->
+Barış BASMACI¹, Müge SARI YILMAZ¹, Nevin KARAMAHMUT MERMER¹
 
-[DOLDURULACAK]
+¹Yıldız Technical University, Faculty of Chemical and Metallurgical Engineering, Department of Chemical Engineering, İstanbul / Türkiye
 
-**Anahtar kelimeler:** [3-5 anahtar kelime]
+Abstract: The cement industry is responsible for approximately 8% of global CO₂ emissions, most of which originate from clinker production. Lowering the clinker-to-cement ratio is a well-established decarbonization strategy; however, it generally causes a marked loss of early-age compressive strength. Calcium silicate hydrate (C-S-H) seeding admixtures can compensate for this loss by providing nucleation sites that accelerate cement hydration, yet commercially available synthetic C-S-H products rely on costly and energy-intensive raw materials, which limits their widespread use. This study proposes a waste-valorization route in which eggshell waste, a high-purity CaCO₃ source generated in excess of 200,000 tonnes annually in Türkiye, is converted into reactive CaO by controlled calcination at 950 °C and subsequently used to synthesize C-S-H through hydrothermal reaction with sodium metasilicate pentahydrate. The synthesis was carried out at Ca/Si molar ratios of 0.8–1.6, autoclave temperatures of 140–180 °C, and reaction times of 24–72 h in order to identify the conditions that yield the highest C-S-H content. The resulting powders were characterized by X-ray diffraction (XRD) with Rietveld quantitative phase analysis, Fourier-transform infrared (FTIR) spectroscopy, SEM-EDS, and TG/DTA. The most suitable C-S-H was incorporated into CEM I 42.5N cement mortars at dosages of 1–5 wt.% of cement, together with a polycarboxylate ether (PCE) dispersant (0.1 wt.% of cement), at a water-to-cement ratio of 0.35. Flexural and compressive strengths were determined at 2, 7, and 28 days in accordance with TS EN 196-1, while phase evolution was followed by XRD-Rietveld and FTIR on paste samples whose hydration was stopped by solvent exchange after 2, 7, 14, and 28 days. To the best of the authors’ knowledge, eggshell-derived C-S-H has not previously been evaluated as a seeding admixture in cementitious systems. By converting a food-industry by-product into a high-value construction material, the study contributes to both circular economy objectives and low-carbon cement technology. The findings are expected to provide a scientifically grounded, cost-effective, and locally sourced alternative to imported commercial C-S-H admixtures.
+
+Keywords: Calcium Silicate Hydrate, Eggshell Waste, Hydrothermal Synthesis, Seeding Admixture, Cement Hydration
+
+[1] This paper is derived from the ongoing master’s thesis of the first author at Yıldız Technical University, Graduate School of Science and Engineering. The study is supported by Yıldız Technical University Scientific Research Projects Coordination Unit (BAP) under project no. [PROJECT NO]. ORCID NO: [ORCID 1], [ORCID 2], [ORCID 3]
