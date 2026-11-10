@@ -25,6 +25,7 @@ Her oturum sonunda güncellenir. En yeni kayıt en üstte.
 ### 2026-11-10
 - İngilizce konferans özeti şablona göre yazıldı: `konferans/ozet-abstract.docx` (metin: `konferans/ozet.md`), 320 kelime, sonuç verisi içermiyor.
 - Dipnot tamamlandı: BAP proje no FYL-2026-7646 ve üç yazarın ORCID numaraları.
+- Durum (öğrenci, 2026-11-10): sentez devam ediyor, uygulama (çimento) deneyleri bitmedi. Özette sentez şimdiki zaman, uygulama gelecek zaman yazıldı.
 - Üçüncü yazar eklendi (Nevin KARAMAHMUT MERMER — Drive taslağından). Dayanım standardı TS EN 197-1 yerine TS EN 196-1 yazıldı.
 - Drive'daki KALEKİM raporu (ticari C-S-H, "hizmete özel") sonuçları özete alınmadı; yalnızca yöntem ayrıntıları (PCE %0,1, s/ç 0,35, çözücü değişimi) kullanıldı.
 
