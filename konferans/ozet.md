@@ -11,4 +11,4 @@ Abstract: The cement industry is responsible for approximately 8% of global CO�
 
 Keywords: Calcium Silicate Hydrate, Eggshell Waste, Hydrothermal Synthesis, Seeding Admixture, Cement Hydration
 
-[1] This paper is derived from the ongoing master’s thesis of the first author at Yıldız Technical University, Graduate School of Science and Engineering. The study is supported by Yıldız Technical University Scientific Research Projects Coordination Unit (BAP) under project no. [PROJECT NO]. ORCID NO: [ORCID 1], [ORCID 2], [ORCID 3]
+[1] This paper is derived from the ongoing master’s thesis of the first author at Yıldız Technical University, Graduate School of Science and Engineering. The study is supported by Yıldız Technical University Scientific Research Projects Coordination Unit (BAP) under project no. FYL-2026-7646. ORCID NO: 0009-0007-6932-1581, 0000-0003-0441-7586, 0000-0001-6645-4724
