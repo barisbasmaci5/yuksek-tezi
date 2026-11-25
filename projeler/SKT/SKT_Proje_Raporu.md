@@ -1,15 +1,19 @@
 ---
-title: "Ambalaj Tipinin Kalekim Ürünlerinin Raf Ömrüne (SKT) Etkisi"
-subtitle: "XRD ve FTIR Bulguları — Proje Raporu (Taslak)"
+title: "Farklı İklim Koşulları İçin Ambalaj Yapısının Optimizasyonu ve Raf Ömrüne (SKT) Etkisi"
+subtitle: "Ara Rapor: Yaşlandırma Sonrası Mikroyapı İncelemeleri (XRD ve FTIR) — Taslak"
 date: "Kasım 2026"
 lang: tr-TR
 ---
 
 Metindeki [DOĞRULANACAK] ve [VERİ GEREKLİ] işaretli yerler proje ekibince tamamlanacaktır.
 
-# 1. Amaç ve Kapsam
+# 1. Projenin Amacı ve Raporun Kapsamı
 
-Bu çalışmada Kalekim ürünleri 12, 20 ve 30 µm iç film kalınlığındaki torbalara doldurulmuş ve hızlandırılmış iklim şartlandırmasına tabi tutulmuştur. Şartlandırmadan sonra kuru harç ile 1, 7 ve 28 günlük hidrate numuneler XRD ve FTIR ile incelenmiş ve mevcut ambalajdaki referans ürünle karşılaştırılmıştır. Amaç, ambalaj değişikliğinin depolama sırasında ürüne nem girişini artırıp artırmadığını, buna bağlı olarak ön hidratasyon ya da hidratasyonda gecikme oluşup oluşmadığını belirlemektir.
+Proje, farklı iklim koşullarında ürün stabilitesini artırmak ve raf ömrünü (SKT) uzatmak için ambalaj yapısının optimize edilmesini amaçlamaktadır. Bu amaçla sıcak ve soğuk iklim senaryolarını temsil eden, sıcaklık, nem ve yağış adımlarından oluşan iklim profilleri hazırlanmış ve farklı içerikteki ürünler bu profiller altında hızlandırılmış yaşlandırmaya tabi tutulmuştur. Yaşlandırmadan sonra ürünlerin performansı ve mikroyapısı incelenerek ambalaj yapıları karşılaştırılmakta; gerekli görülen ürünlerde ambalajın bariyer özelliklerinin ve yapısının revize edilmesi öngörülmektedir.
+
+Projeden beklenen çıktılar, farklı coğrafi pazarlarda ürün dayanıklılığının artırılması, kalite kayıplarının azaltılması ve daha uzun raf ömrüne sahip ürünlerin geliştirilmesidir. Bu çıktıların çevresel ve ekonomik sürdürülebilirlik hedeflerine de katkı sağlaması beklenmektedir. Sonuçların performansa göre ticarileştirilmesi ve akademik yayına dönüştürülmesi planlanmaktadır.
+
+Bu rapor projenin mikroyapı ayağına ait ara rapordur. Ürünler mevcut ambalajlarının (Referans) yanı sıra 12, 20 ve 30 µm iç film kalınlığındaki üç torba tipine doldurulmuş, yaşlandırmadan sonra kuru harç ile 1, 7 ve 28 günlük hidrate numuneler XRD ve FTIR ile incelenmiştir. İncelemenin sorusu, ambalaj tipinin depolama sırasında ürüne nem girişini değiştirip değiştirmediği ve buna bağlı olarak ön hidratasyon ya da hidratasyonda gecikme oluşup oluşmadığıdır. Performans testlerinin sonuçları bu rapora dahil değildir [VERİ GEREKLİ].
 
 Rapor Groutart Rapid, Mastar 10, Macunart, İzolatex Plus ve Technopool ürünlerini kapsamaktadır. Izoseal ve Izostop verileri henüz gelmemiştir [VERİ GEREKLİ].
 
@@ -48,9 +52,9 @@ Torba tipleri Çizelge 1'de, ürün–ambalaj test matrisi Çizelge 2'de verilmi
 
 : Çizelge 2. Ürün–ambalaj test matrisi
 
-## 3.2. Şartlandırma
+## 3.2. İklim profilleri ve hızlandırılmış yaşlandırma
 
-Kraft torbalar için 24 saatlik iki döngü tanımlanmıştır (Çizelge 3). Soğuk döngü Moskova ve Fransa'nın soğuk bölgelerinin, sıcak döngü ise Nairobi, Duhok ve Trablus'un iklim verilerine göre hazırlanmıştır. 45 günlük uygulamanın 2 yıllık depolamaya karşılık geldiği kabul edilmiştir. Soğuk döngü 06.03.2026–21.04.2026 tarihleri arasında uygulanmıştır. Sıcak döngünün tarihleri ve hangi ürünün hangi döngüye girdiği dosyalarda yer almamaktadır [DOĞRULANACAK].
+Kraft torbalar için sıcak ve soğuk iklim senaryolarını temsil eden 24 saatlik iki iklim profili tanımlanmıştır (Çizelge 3). Soğuk döngü Moskova ve Fransa'nın soğuk bölgelerinin, sıcak döngü ise Nairobi, Duhok ve Trablus'un iklim verilerine göre hazırlanmıştır. 45 günlük uygulamanın 2 yıllık depolamaya karşılık geldiği kabul edilmiştir. Soğuk döngü 06.03.2026–21.04.2026 tarihleri arasında uygulanmıştır. Sıcak döngünün tarihleri ve hangi ürünün hangi döngüye girdiği dosyalarda yer almamaktadır [DOĞRULANACAK]. Sonuçların iklim profiline göre yorumlanabilmesi için bu bilgi gereklidir.
 
 | Soğuk döngü adımı | Bağıl nem | Yağış | Süre (sa) | | Sıcak döngü adımı | Bağıl nem | Yağış | Süre (sa) |
 |---|--:|---|--:|---|---|--:|---|--:|
@@ -62,7 +66,7 @@ Kraft torbalar için 24 saatlik iki döngü tanımlanmıştır (Çizelge 3). So�
 | | | | | | 45 °C | %20 | yok | 4 |
 | Toplam | | | 24 | | Toplam | | | 24 |
 
-: Çizelge 3. Kraft torbalar için şartlandırma döngüleri (Şartlandırma Koşulları dosyası)
+: Çizelge 3. Kraft torbalar için soğuk ve sıcak iklim profilleri (Şartlandırma Koşulları dosyası)
 
 Jüt torbalarda (Fayser Std., Foamplast, Technoplast Maxi Extra, Mastar 10, Groutart Rapid) radyasyon (1120 W), −10/23/37 °C sıcaklık, nem ve yağış adımlarından oluşan 160 dakikalık klasik döngü kullanılmıştır. 6 aylık depolamaya ek olarak 10, 20 ve 40 günlük uygulama sırasıyla 6, 12 ve 24 aylık yaşlanmaya karşılık gelmektedir.
 
@@ -618,18 +622,22 @@ Macunart, İzolatex Plus ve Technopool kuru harçlarının hiçbirinde etrenjit 
 
 Ambalajın hidratasyona etkisi ürüne göre değişmektedir. Bütün ürünlerde kötü sonuç veren tek bir ambalaj tipi olmadığı gibi film kalınlığı arttıkça sonuçların iyileştiği bir eğilim de görülmemiştir. Numuneler arasındaki farkların bir kısmı numune hazırlama ve ölçüm değişkenliğinden kaynaklanıyor olabilir.
 
-Referansın her yaşta önde olduğu tek ürün Technopool'dur ve bu üründe 20 µm 28. günde de geride kalmıştır. Technopool için ambalaj kararının performans testlerine göre verilmesi önerilir.
+Referansın her yaşta önde olduğu tek ürün Technopool'dur ve bu üründe 20 µm 28. günde de geride kalmıştır.
 
-SKT açısından, 2 yıllık depolamaya karşılık kabul edilen şartlandırmadan sonra Macunart ve İzolatex Plus'ta 12 ve 20 µm ambalajların ön hidratasyona yol açtığını gösteren mineralojik bir bulgu yoktur. Ancak SKT kararı yalnızca XRD ve FTIR ile verilemez; Referansla karşılaştırmalı performans testleri (Ürün Listesi – Testler sayfası: kıvam, priz, yapışma, basınç ve eğilme dayanımı, kap ömrü vb.) gereklidir [VERİ GEREKLİ].
+Projenin hedefi açısından ara bulgular şöyledir. Macunart ve İzolatex Plus'ta 12 ve 20 µm ambalajların, 2 yıllık depolamaya karşılık kabul edilen yaşlandırmadan sonra ön hidratasyona yol açtığını gösteren mineralojik bir bulgu yoktur; bu iki üründe mikroyapı verileri ambalaj bariyerinin revize edilmesini gerektirmemektedir. Technopool ise ambalaj bariyerinin yeniden değerlendirilmesi gerekebilecek tek üründür ve bu üründe karar performans testlerine göre verilmelidir.
+
+Sonuçlar henüz iklim profiline göre ayrıştırılamamaktadır. Numunelerin hangi profile tabi tutulduğu kayıtlarda yer almamakta ve bu raporda her ürün için tek bir yaşlandırma süresi bulunmaktadır. Farklı pazarlar için SKT önerisi verebilmek amacıyla her ürünün sıcak ve soğuk profillerde ayrı ayrı ve birden fazla yaşlandırma süresinde test edilmesi gerekir. SKT kararı ayrıca Referansla karşılaştırmalı performans testlerine (Ürün Listesi – Testler sayfası: kıvam, priz, yapışma, basınç ve eğilme dayanımı, kap ömrü vb.) dayanmalıdır [VERİ GEREKLİ].
 
 # 6. Öneriler
 
+- Her numunenin hangi iklim profiline tabi tutulduğu kayda geçirilmeli; sıcak ve soğuk profiller aynı ürün ve ambalajda ayrı ayrı uygulanmalıdır.
+- SKT'nin süreye bağlı değişimini görebilmek için ara yaşlandırma süreleri (örneğin 6 ve 12 ay eşdeğeri) eklenmelidir.
 - Eksik ölçümler tamamlanmalıdır: Macunart 28 gün Referans ve 20 µm XRD; Technopool 28 gün Referans ve 20 µm FTIR; İzolatex Plus 28 gün 30 µm XRD ve FTIR; İzolatex Plus ve Technopool kuru harç FTIR.
 - Kuru harçlarda 40–200 °C (bağlı su) ve 400–500 °C (portlandit) kütle kayıpları TGA ile Referansla karşılaştırmalı ölçülmelidir. TGA, XRD'de görünmeyen amorf ön hidratasyonu da yansıtır.
 - Neme en duyarlı fazlar olan C₃A (kübik ve ortorombik), alçı taşı, basanit ve anhidrit kuru harçlarda Rietveld analiziyle belirlenmelidir.
 - XRD en az iki bağımsız numuneyle tekrarlanmalı, agregalı ürünlerde numune 63 µm altına öğütülmeli ya da elenmeli, İzolatex Plus gibi esnek numunelerde yüzey tutucu seviyesine getirilmelidir.
 - Tüm yaşlarda aynı durdurma işlemi uygulanmalıdır; RILEM önerisi izopropanol ile solvent değişimidir (Snellings ve diğerleri, 2018).
-- Nem bariyeri yalnızca film kalınlığına bağlı olmadığından Referans ambalajın yapısı ve torbaların su buharı geçirgenliği (WVTR) değerleri rapora eklenmelidir.
+- Ambalaj bariyer revizyonuna temel oluşturmak için Referans ambalajın yapısı ve tüm torbaların su buharı geçirgenliği (WVTR) ölçülmelidir. Nem bariyeri film kalınlığının yanı sıra torbanın katman yapısına da bağlıdır.
 
 # Kaynaklar
 
