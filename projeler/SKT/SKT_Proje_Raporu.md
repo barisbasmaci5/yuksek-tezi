@@ -7,31 +7,71 @@ lang: tr-TR
 
 Metindeki [DOĞRULANACAK] ve [VERİ GEREKLİ] işaretli yerler proje ekibince tamamlanacaktır.
 
-# 1. Projenin Amacı ve Raporun Kapsamı
+# 1. Amaç
 
-Proje, farklı iklim koşullarında ürün stabilitesini artırmak ve raf ömrünü (SKT) uzatmak için ambalaj yapısının optimize edilmesini amaçlamaktadır. Bu amaçla sıcak ve soğuk iklim senaryolarını temsil eden, sıcaklık, nem ve yağış adımlarından oluşan iklim profilleri hazırlanmış ve farklı içerikteki ürünler bu profiller altında hızlandırılmış yaşlandırmaya tabi tutulmuştur. Yaşlandırmadan sonra ürünlerin performansı ve mikroyapısı incelenerek ambalaj yapıları karşılaştırılmakta; gerekli görülen ürünlerde ambalajın bariyer özelliklerinin ve yapısının revize edilmesi öngörülmektedir.
+Çimento esaslı yapı kimyasalları; Portland çimentosu (OPC) ve kalsiyum alüminat çimentosu (CAC) gibi mineral bağlayıcılar, kalsiyum sülfat türleri, kum, kalsit ve dolomit gibi dolgular ile polimer ve kimyasal katkılardan oluşan toz karışımlardır. Bu ürünlerin raf ömrü, içerdikleri ham maddelerin raf ömrü esas alınarak belirlenmektedir. Ancak ürün nemli ya da sıcak ortamda depolandığında veya ambalaj nemi yeterince tutmadığında bağlayıcılar havadaki nemle tepkimeye girebilir (ön hidratasyon). Bunun sonucunda ürünün bağlayıcılığı ve dayanımı düşer, uygulamada beklenen performansa ulaşılamaz. Bu durum hem kalite kaybına hem de gereksiz malzeme, enerji ve maliyet kullanımına yol açmaktadır.
+
+Ekibin 2025 yılında yürüttüğü raf ömrü çalışmasında, orijinal ambalajında işletme koşullarında bekletilen ürünlerde raf süresi uzadıkça hidratasyon veriminin ve performansın düştüğü, CAC içeren bazı ürünlerde 6–12. aylarda taşlaşma ve topaklanma görüldüğü bildirilmiştir [1]. Aynı çalışmada nem bariyeri artırılmış ambalajlara geçilmesi ya da ambalaj film kalınlığının artırılması önerilmiştir [1].
+
+Bu proje, söz konusu öneriden hareketle, farklı iklim koşullarında ürün stabilitesini artırmak ve raf ömrünü uzatmak için ambalaj yapısının optimize edilmesini amaçlamaktadır. Sıcak ve soğuk iklim senaryolarını temsil eden, sıcaklık, nem ve yağış adımlarından oluşan iklim profilleri hazırlanmış ve farklı içerikteki ürünler bu profiller altında hızlandırılmış yaşlandırmaya tabi tutulmuştur. Yaşlandırmadan sonra ürünlerin performansı ve mikroyapısı incelenerek ambalaj yapıları karşılaştırılmakta, gerekli görülen ürünlerde ambalajın bariyer özelliklerinin ve yapısının revize edilmesi öngörülmektedir.
 
 Projeden beklenen çıktılar, farklı coğrafi pazarlarda ürün dayanıklılığının artırılması, kalite kayıplarının azaltılması ve daha uzun raf ömrüne sahip ürünlerin geliştirilmesidir. Bu çıktıların çevresel ve ekonomik sürdürülebilirlik hedeflerine de katkı sağlaması beklenmektedir. Sonuçların performansa göre ticarileştirilmesi ve akademik yayına dönüştürülmesi planlanmaktadır.
 
-Bu rapor projenin mikroyapı ayağına ait ara rapordur. Ürünler mevcut ambalajlarının (Referans) yanı sıra 12, 20 ve 30 µm iç film kalınlığındaki üç torba tipine doldurulmuş, yaşlandırmadan sonra kuru harç ile 1, 7 ve 28 günlük hidrate numuneler XRD ve FTIR ile incelenmiştir. İncelemenin sorusu, ambalaj tipinin depolama sırasında ürüne nem girişini değiştirip değiştirmediği ve buna bağlı olarak ön hidratasyon ya da hidratasyonda gecikme oluşup oluşmadığıdır. Performans testlerinin sonuçları bu rapora dahil değildir [VERİ GEREKLİ].
+Bu rapor projenin mikroyapı ayağına ait ara rapordur ve Groutart Rapid, Mastar 10, Macunart, İzolatex Plus ve Technopool ürünlerini kapsamaktadır. Raporun sorusu, ambalaj tipinin depolama sırasında ürüne nem girişini değiştirip değiştirmediği ve buna bağlı olarak ön hidratasyon ya da hidratasyonda gecikme oluşup oluşmadığıdır. Performans test sonuçları ile Izoseal ve Izostop verileri bu rapora dahil değildir [VERİ GEREKLİ].
 
-Rapor Groutart Rapid, Mastar 10, Macunart, İzolatex Plus ve Technopool ürünlerini kapsamaktadır. Izoseal ve Izostop verileri henüz gelmemiştir [VERİ GEREKLİ].
+# 2. Literatür Özeti
 
-# 2. Literatür
+## 2.1. Portland çimentosu ve hidratasyon reaksiyonları
 
-Çimento depolama sırasında nemle temas ettiğinde tane yüzeyinde sınırlı bir hidratasyon (ön hidratasyon) başlar. Whittaker ve diğerleri (2013), ince tabaka hâlinde %60 ve %85 bağıl nemde bekletilen CEM I 42,5R çimentosunda %60 bağıl nemin dayanımı ihmal edilebilir düzeyde etkilediğini, ancak işlenebilirliği azalttığını ve priz süresini uzattığını bildirmiştir. %85 bağıl nemde ise basınç dayanımı, özellikle erken yaşta, büyük ölçüde düşmüştür.
+Portland çimentosu, klinkerin uygun oranda alçı taşı ile öğütülmesiyle elde edilir. Klinkerin ana fazları trikalsiyum silikat (C₃S, alit), dikalsiyum silikat (C₂S, belit), trikalsiyum alüminat (C₃A) ve tetrakalsiyum alüminoferrittir (C₄AF) [2]. Bu raporda kullanılan faz adları ve kısaltmaları Tablo 1'de verilmiştir.
 
-Dubina ve diğerleri (2011), klinker fazlarının su buharı alımını ayrı ayrı ölçmüş ve en reaktif bileşenlerin serbest kireç (CaO) ile C₃A olduğunu göstermiştir. Ortorombik C₃A yaklaşık %55 bağıl nemde su bağlamaya başlarken C₃S ve C₂S'de sorpsiyon ancak %74 bağıl nemde başlamış ve düşük kalmıştır. Kalsiyum sülfatlar suyu çoğunlukla fiziksel olarak tutmuştur. Torbaya nem girdiğinde ilk etkilenecek fazların alüminat ve sülfat fazları olması beklenir. Ambalaj tiplerini kuru harç raf ömrü açısından doğrudan karşılaştıran bir çalışma bulunamamıştır [KAYNAK GEREKLİ].
+| Faz | Formül | Kısaltma | XRD'deki adı |
+|---|---|---|---|
+| Trikalsiyum silikat | 3CaO·SiO₂ | C₃S | Alit / hatrurit |
+| Dikalsiyum silikat | 2CaO·SiO₂ | C₂S | Belit / larnit |
+| Trikalsiyum alüminat | 3CaO·Al₂O₃ | C₃A | – |
+| Tetrakalsiyum alüminoferrit | 4CaO·Al₂O₃·Fe₂O₃ | C₄AF | Brovnmillerit |
+| Kalsiyum silikat hidrat | değişken | C-S-H | amorf |
+| Kalsiyum hidroksit | Ca(OH)₂ | CH | Portlandit |
+| Etrenjit | 3CaO·Al₂O₃·3CaSO₄·32H₂O | AFt | Etrenjit |
+| Monosülfat / monokarbonat | – | AFm | – |
+| Alçı taşı | CaSO₄·2H₂O | CS̄H₂ | Jips |
 
-XRD ile etrenjit, portlandit ve AFm gibi kristalin hidratasyon ürünleri ve reaksiyona girmemiş alit ile belit izlenebilir; amorf C-S-H ise yalnızca geniş bir zemin yükselmesi verir (Scrivener ve diğerleri, 2016). Hidratasyonu belirli bir yaşta durdurmak için RILEM TC-238 SCM, izopropanol ile solvent değişimini önermektedir (Snellings ve diğerleri, 2018).
+: Tablo 1. Çimento fazları ve hidratasyon ürünlerinin gösterimi [2]
 
-FTIR'da C-S-H oluşumu 970–1100 cm⁻¹ aralığındaki banttan izlenir (Ylmén ve diğerleri, 2009). Sentetik C-S-H'nin ana Si–O bantları 950–1100, 810–830 ve 660–670 cm⁻¹ aralığındadır ve konumları Ca/Si oranına göre kayar (Yu ve diğerleri, 1999). Bu raporda Si–O bandının anhidrit alitteki ~920 cm⁻¹ konumundan ~960–1000 cm⁻¹'e kayması hidratasyon göstergesi olarak kullanılmıştır.
+Çimento su ile karıştırıldığında C₃S ve C₂S, amorf C-S-H jeli ile kristalin portlanditi (CH) oluşturur. C-S-H, sertleşmiş çimento hamurunun dayanımını sağlayan ana üründür. C₃S erken yaş dayanımını, C₂S ise ileri yaş dayanımını belirler. C₃A, ortamdaki alçı taşı ile önce etrenjiti (AFt), sülfat tükendikten sonra ise monosülfat gibi AFm fazlarını oluşturur [2]. Ortamda kalsit bulunduğunda monosülfat yerine monokarbonat kararlı hâle gelir ve etrenjit de daha kararlı kalır [3, 4].
 
-# 3. Malzeme ve Yöntem
+## 2.2. Kalsiyum alüminat çimentosu ve ikili/üçlü bağlayıcı sistemler
 
-## 3.1. Ürünler ve ambalajlar
+CAC'nin ana reaktif fazı monokalsiyum alüminattır (CA) [2]. CAC hızlı priz ve erken dayanım gerektiren tesviye şapları, hızlı tamir harçları ve teknik yapıştırıcılarda OPC ve kalsiyum sülfat ile birlikte ikili ya da üçlü bağlayıcı sistem olarak kullanılır [1, 5]. OPC–CAC–kalsiyum sülfat üçlü sistemlerinde CAC ve sülfatça zengin karışımlar ağırlıklı olarak etrenjit ve alüminyum hidroksit (AH₃) oluşturur [5]. Bu çalışmadaki ürünlerden Mastar 10, OPC, CAC ve anhidrit içeren üçlü bir sistemdir [1]. Diğer ürünlerin bağlayıcı sistemleri Tablo 3'te verilmiştir.
 
-Torba tipleri Çizelge 1'de, ürün–ambalaj test matrisi Çizelge 2'de verilmiştir.
+## 2.3. Ön hidratasyon ve depolama nemi
+
+Çimento depolama sırasında nemle temas ettiğinde tane yüzeyinde sınırlı bir hidratasyon (ön hidratasyon) başlar. Whittaker ve diğerleri, ince tabaka hâlinde %60 ve %85 bağıl nemde bekletilen CEM I 42,5R çimentosunda %60 bağıl nemin dayanımı ihmal edilebilir düzeyde etkilediğini, ancak işlenebilirliği azalttığını ve priz süresini uzattığını bildirmiştir [6]. %85 bağıl nemde ise basınç dayanımı, özellikle erken yaşta, büyük ölçüde düşmüştür [6].
+
+Dubina ve diğerleri, klinker fazlarının su buharı alımını ayrı ayrı ölçmüş ve en reaktif bileşenlerin serbest kireç (CaO) ile C₃A olduğunu göstermiştir [7]. Ortorombik C₃A yaklaşık %55 bağıl nemde su bağlamaya başlarken C₃S ve C₂S'de sorpsiyon ancak %74 bağıl nemde başlamış ve düşük kalmıştır. Kalsiyum sülfatlar suyu çoğunlukla fiziksel olarak tutmuştur [7]. Torbaya nem girdiğinde ilk etkilenecek fazların alüminat ve sülfat fazları olması beklenir.
+
+Ekibin 2025 çalışmasında da benzer bir tablo görülmüştür. Mastar 10'un 12. ay numunelerinde 24 saatlik kuruma gerçekleşmemiş ve bu durum CAC'nin rafta ön hidratasyona girmesine bağlanmıştır. CAC içeren ikili sistemlerde (Rapitech, Ultratech) 6–12. aylarda taşlaşma görülmüş, yalnız OPC içeren ürünlerde ise raf süresi uzadıkça hidratasyon verimi ve performans düşmüştür [1].
+
+## 2.4. Ambalajın nem bariyeri ve hızlandırılmış yaşlandırma
+
+Bir ambalaj filminin nem bariyeri su buharı geçirgenliği (WVTR) ile tanımlanır. ASTM F1249, plastik film ve levhaların WVTR, su buharı geçirgenliği ve homojen malzemeler için geçirgenlik katsayısının belirlenmesini tanımlar ve WVTR'yi paketlenmiş ürünün raf ömrü ve stabilitesiyle ilişkilendirir [8]. Aynı standart, WVTR'nin film kalınlığıyla ters orantılı olduğu varsayımının her zaman geçerli olmadığını da belirtir [8]. Bu nedenle torbaların bariyer performansı yalnızca film kalınlığından çıkarılamaz.
+
+Hızlandırılmış yaşlandırma, bozulma tepkimelerinin sıcaklıkla Arrhenius bağıntısına göre hızlandığı varsayımına dayanır. Tıbbi ambalajlar için hazırlanmış olan ASTM F1980, hızlandırılmış yaşlandırma çalışmalarının gerçek zamanlı yaşlandırma çalışmalarıyla birlikte yürütülmesini öngörmektedir [9]. Bu projede kullanılan "45 günlük döngü = 2 yıl" eşdeğerliği de gerçek zamanlı depolama verisiyle doğrulanmalıdır.
+
+## 2.5. Hidratasyonun XRD ve FTIR ile izlenmesi
+
+XRD ile etrenjit, portlandit ve AFm gibi kristalin hidratasyon ürünleri ile reaksiyona girmemiş alit ve belit izlenebilir; amorf C-S-H ise yalnızca geniş bir zemin yükselmesi verir [10]. Rietveld analiziyle bulunan faz miktarlarının görüntü analizi ve TGA ile uyumlu olduğu gösterilmiştir [11]. Hidratasyonu belirli bir yaşta durdurmak için RILEM TC-238 SCM, izopropanol ile solvent değişimini önermektedir [12].
+
+FTIR'da C-S-H oluşumu 970–1100 cm⁻¹ aralığındaki banttan izlenir [13]. Sentetik C-S-H'nin ana Si–O bantları 950–1100, 810–830 ve 660–670 cm⁻¹ aralığındadır ve konumları Ca/Si oranına göre kayar [14]. Etrenjit ve alçı taşının sülfat bantları ile 1600–1700 cm⁻¹ aralığındaki H–O–H bükülme bandı, C₃A–alçı taşı–kalsit sisteminde hidratasyonun izlenmesinde kullanılmıştır [15]. Bu raporda Si–O bandının anhidrit alitteki ~920 cm⁻¹ konumundan ~960–1000 cm⁻¹'e kayması hidratasyon göstergesi olarak kullanılmıştır.
+
+# 3. Deneysel Çalışmalar
+
+## 3.1. Numune hazırlanışı
+
+### 3.1.1. Ambalaj seçimi
+
+Çalışmada üç farklı torba tipi kullanılmış ve ürünün mevcut ambalajı referans alınmıştır (Tablo 2).
 
 | Torba tipi | İç film kalınlığı | Numune kodu |
 |---|---|---|
@@ -40,23 +80,27 @@ Torba tipleri Çizelge 1'de, ürün–ambalaj test matrisi Çizelge 2'de verilmi
 | Weber torbası (weberfloor LVL 1040) | 30 µm | 30 µm |
 | Ürünün mevcut Kalekim ambalajı [DOĞRULANACAK] | [VERİ GEREKLİ] | Referans |
 
-: Çizelge 1. Ambalaj tipleri (Ürün Listesi dosyası)
+: Tablo 2. Ambalaj tipleri (Ürün Listesi dosyası)
 
-| Ürün | Referans | 12 µm | 20 µm | 30 µm |
-|---|:-:|:-:|:-:|:-:|
-| Groutart Rapid | ✓ | ✓ | ✓ | ✓ |
-| Mastar 10 | – | ✓ | ✓ | ✓ |
-| Macunart | ✓ | ✓ | ✓ | ✓ |
-| İzolatex Plus (toz bileşen) | ✓ | ✓ | ✓ | ✓ |
-| Technopool | ✓ | ✓ | ✓ | – |
+### 3.1.2. Ürün seçimi
 
-: Çizelge 2. Ürün–ambalaj test matrisi
+Farklı bağlayıcı sistemlerini ve kullanım alanlarını temsil eden beş ürün seçilmiştir (Tablo 3). Ürün–ambalaj eşleşmeleri de aynı tabloda verilmiştir.
 
-## 3.2. İklim profilleri ve hızlandırılmış yaşlandırma
+| Ürün | Bağlayıcı sistemi | Referans | 12 µm | 20 µm | 30 µm |
+|---|---|:-:|:-:|:-:|:-:|
+| Groutart Rapid | [DOĞRULANACAK] | ✓ | ✓ | ✓ | ✓ |
+| Mastar 10 | Üçlü (OPC + CAC + anhidrit) [1] | – | ✓ | ✓ | ✓ |
+| Macunart | [DOĞRULANACAK] | ✓ | ✓ | ✓ | ✓ |
+| İzolatex Plus (toz bileşen) | [DOĞRULANACAK] | ✓ | ✓ | ✓ | ✓ |
+| Technopool | [DOĞRULANACAK] | ✓ | ✓ | ✓ | – |
 
-Kraft torbalar için sıcak ve soğuk iklim senaryolarını temsil eden 24 saatlik iki iklim profili tanımlanmıştır (Çizelge 3). Soğuk döngü Moskova ve Fransa'nın soğuk bölgelerinin, sıcak döngü ise Nairobi, Duhok ve Trablus'un iklim verilerine göre hazırlanmıştır. 45 günlük uygulamanın 2 yıllık depolamaya karşılık geldiği kabul edilmiştir. Soğuk döngü 06.03.2026–21.04.2026 tarihleri arasında uygulanmıştır. Sıcak döngünün tarihleri ve hangi ürünün hangi döngüye girdiği dosyalarda yer almamaktadır [DOĞRULANACAK]. Sonuçların iklim profiline göre yorumlanabilmesi için bu bilgi gereklidir.
+: Tablo 3. Ürünler, bağlayıcı sistemleri ve test edilen ambalajlar
 
-| Soğuk döngü adımı | Bağıl nem | Yağış | Süre (sa) | | Sıcak döngü adımı | Bağıl nem | Yağış | Süre (sa) |
+## 3.2. Deney planı
+
+Kraft torbalar için sıcak ve soğuk iklim senaryolarını temsil eden 24 saatlik iki iklim profili tanımlanmıştır (Tablo 4). Soğuk profil Moskova ve Fransa'nın soğuk bölgelerinin, sıcak profil ise Nairobi, Duhok ve Trablus'un iklim verilerine göre hazırlanmıştır. 45 günlük uygulamanın 2 yıllık depolamaya karşılık geldiği kabul edilmiştir. Soğuk profil 06.03.2026–21.04.2026 tarihleri arasında uygulanmıştır. Sıcak profilin tarihleri ve hangi ürünün hangi profile girdiği dosyalarda yer almamaktadır [DOĞRULANACAK]. Sonuçların iklim profiline göre yorumlanabilmesi için bu bilgi gereklidir.
+
+| Soğuk profil adımı | Bağıl nem | Yağış | Süre (sa) | | Sıcak profil adımı | Bağıl nem | Yağış | Süre (sa) |
 |---|--:|---|--:|---|---|--:|---|--:|
 | −15 °C | %90 | yok | 5 | | 0 °C | %65 | yok | 3 |
 | −5 °C | %90 | yok | 5 | | 5 °C | %75 | yok | 4 |
@@ -66,19 +110,27 @@ Kraft torbalar için sıcak ve soğuk iklim senaryolarını temsil eden 24 saatl
 | | | | | | 45 °C | %20 | yok | 4 |
 | Toplam | | | 24 | | Toplam | | | 24 |
 
-: Çizelge 3. Kraft torbalar için soğuk ve sıcak iklim profilleri (Şartlandırma Koşulları dosyası)
+: Tablo 4. Kraft torbalar için soğuk ve sıcak iklim profilleri (Şartlandırma Koşulları dosyası)
 
 Jüt torbalarda (Fayser Std., Foamplast, Technoplast Maxi Extra, Mastar 10, Groutart Rapid) radyasyon (1120 W), −10/23/37 °C sıcaklık, nem ve yağış adımlarından oluşan 160 dakikalık klasik döngü kullanılmıştır. 6 aylık depolamaya ek olarak 10, 20 ve 40 günlük uygulama sırasıyla 6, 12 ve 24 aylık yaşlanmaya karşılık gelmektedir.
 
-## 3.3. Numune hazırlama
+Yaşlandırmadan sonra her ambalajdan alınan kuru harç doğrudan analiz edilmiş, hidrate numuneler ise 1, 7 ve 28 gün kür edildikten sonra incelenmiştir [karışım oranları VERİ GEREKLİ].
 
-Kuru harç numuneleri şartlandırmadan sonra torbadan alınarak doğrudan ölçülmüştür. Hidrate numuneler 1, 7 ve 28 gün kür edildikten sonra hidratasyonları durdurulmuştur [karışım oranları VERİ GEREKLİ; durdurma yöntemi ve çözücü DOĞRULANACAK]. Technopool 20 µm numunesi 7. günde hem durdurulmuş hem durdurulmamış olarak ölçülmüştür.
+## 3.3. Reaksiyon takibi
 
-## 3.4. Ölçüm koşulları
+### 3.3.1. Reaksiyon durdurma
 
-Ham veri dosyalarının başlık bilgilerine göre XRD ölçümleri Cu Kα ışınımıyla (λ = 1,5406 Å), numune döndürücülü yansıma geometrisinde, 5–70° 2θ aralığında ve 0,026° adımla alınmıştır. FTIR spektrumları 4000–650 cm⁻¹ aralığında 1 cm⁻¹ aralıkla %T olarak kaydedilmiş, numunelerin çoğu iki, bazıları üç ya da dört tekrar ölçülmüştür [cihaz ve ATR modu DOĞRULANACAK].
+2025 raf ömrü çalışmasında hidratasyon, AG_YK_TL_0397 numaralı "Çözücü Değişim Metodu ile Çimento Hidratasyonu Durdurma" talimatına göre durdurulmuştur: numuneler havanda dövülmüş, 100 ml aseton ve 50 ml dietil eter ile yıkanmış ve mavi bant filtre kâğıdından süzülmüştür [1]. Bu çalışmada da aynı talimatın uygulandığı varsayılmıştır [DOĞRULANACAK]. Technopool 20 µm numunesi 7. günde hem durdurulmuş hem durdurulmamış olarak ölçülmüştür.
 
-## 3.5. Veri işleme
+### 3.3.2. XRD ölçümleri
+
+Ham veri dosyalarının başlık bilgilerine göre XRD ölçümleri Cu Kα ışınımıyla (λ = 1,5406 Å), numune döndürücülü yansıma (reflection) geometrisinde, 2θ = 5–70° aralığında ve 0,026° adımla alınmıştır.
+
+### 3.3.3. FTIR ölçümleri
+
+FTIR spektrumları 4000–650 cm⁻¹ aralığında 1 cm⁻¹ aralıkla %T olarak kaydedilmiş, numunelerin çoğu iki, bazıları üç ya da dört tekrar ölçülmüştür. 2025 çalışmasında FTIR ölçümleri transmisyon modunda alınmıştır [1]; bu çalışmadaki ölçüm modu [DOĞRULANACAK].
+
+### 3.3.4. Veri işleme
 
 Ham XRD (.rd) ve FTIR (.csv) dosyaları yeniden işlenmiş ve tüm grafikler aynı ölçek ve renklerle çizilmiştir (Referans siyah, 12 µm mavi, 20 µm turuncu, 30 µm yeşil).
 
@@ -88,9 +140,23 @@ Her numunede etrenjit (8,7–9,5°), portlandit (17,7–18,4°), alit (51,45–5
 
 FTIR tekrarlarının ortalaması alınarak absorbansa (A = −log T) çevrilmiştir. 3640 cm⁻¹ portlandit bandının yüksekliği, 3750–2700 cm⁻¹ O–H bandının alanı ve 900–1060 cm⁻¹ aralığındaki Si–O bandının konumu gösterge olarak kullanılmıştır.
 
-Aynı numunenin FTIR tekrarları arasında O–H bandı alanı %25–30'a kadar değişmektedir (Çizelge 5, Macunart 28 gün 12 µm). Bu fark numuneler arasındaki farkla aynı büyüklükte olduğundan tekrar aralıkları örtüşen FTIR sonuçları "fark yok" olarak değerlendirilmiştir. XRD ölçümleri tekrarsızdır. Kum içeren ürünlerde (Technopool, İzolatex Plus) iri taneler nedeniyle kuvars, feldispat ve kalsit pik şiddetleri numuneden numuneye değişmektedir.
+Aynı numunenin FTIR tekrarları arasında O–H bandı alanı %25–30'a kadar değişmektedir (Tablo 7, Macunart 28 gün 12 µm). Bu fark numuneler arasındaki farkla aynı büyüklükte olduğundan tekrar aralıkları örtüşen FTIR sonuçları "fark yok" olarak değerlendirilmiştir. XRD ölçümleri tekrarsızdır. Kum içeren ürünlerde (Technopool, İzolatex Plus) iri taneler nedeniyle kuvars, feldispat ve kalsit pik şiddetleri numuneden numuneye değişmektedir.
 
-# 4. Bulgular
+## 3.4. Performans testleri
+
+Ürünlere uygulanacak performans testleri Ürün Listesi dosyasındaki Testler sayfasında tanımlanmıştır (Tablo 5). Testler referans ambalajla karşılaştırmalı yapılacak ve ürünlerin kalite kontrol planlarındaki limit değerlerle değerlendirilecektir. 2025 çalışmasında Mastar 10 için TS EN 13813, TS EN 13888, TS EN 196-3 ve TS EN 196-10 standartları uygulanmıştır [1]. Diğer ürünler için uygulanacak standartlar ve kalite kontrol planı kodları [DOĞRULANACAK].
+
+| Ürün | Testler |
+|---|---|
+| Macunart | Ambalaj ve ürün görünüşü, işlenebilirlik ve kat kuruma, kap ömrü, zımpara sonrası yüzey görünüşü, tiksotropi, basınç dayanımı, betona yapışma |
+| Groutart Rapid | Ambalaj ve ürün görünüşü, kap ömrü, tiksotropi, kapiler su emme, basınç dayanımı (1 saat, 1 gün, 7 gün), betona yapışma |
+| İzolatex Plus | Toz ve sıvı bileşen görünüşü, sıvı bileşen katı madde miktarı, işlenebilirlik, viskozite, su geçirimsizlik (pozitif ve negatif basınç), kuru ve ıslak çekme dayanımı, 23 °C'de çatlak köprüleme, su emme, kap ömrü, yapışma |
+| Technopool | Ambalaj ve ürün görünüşü, işlenebilirlik, viskozite, seramik düzeltilebilme süresi, kayma, kuru/ıslak/sıcak yapışma, açık bekletme süresi, esneklik, kabuklaşma |
+| Mastar 10 | Ambalaj ve ürün görünüşü, kürlenmiş yüzey görünüşü, işlenebilirlik, yayılma çapı (0 ve 15 dk), viskozite, eğilme ve basınç dayanımı (24 saat, 28 gün), ilk ve son priz, aşınma |
+
+: Tablo 5. Ürünlere uygulanacak performans testleri (Ürün Listesi – Testler sayfası)
+
+# 4. Bulgular ve Tartışma
 
 Groutart Rapid ve Mastar 10 bölümleri ekibin önceki raporundan (GR ve M10 SKT, son hâl) değiştirilmeden alınmıştır. Macunart, İzolatex Plus ve Technopool bölümleri bu rapor için ham veriden hazırlanmıştır.
 
@@ -332,7 +398,7 @@ Bağlayıcı C-S-H göstergeleri ve yöntemler arası tutarlılık birlikte değ
 
 ### 4.3. Macunart
 
-Macunart'ta baskın faz dolomittir (30,9° ve 41,1°); kalsit (29,4°), alit (32,2° ve 51,7°) ve belit (32,6°) de bulunmaktadır. XRD göstergeleri Çizelge 4'te, FTIR göstergeleri Çizelge 5'te verilmiştir.
+Macunart'ta baskın faz dolomittir (30,9° ve 41,1°); kalsit (29,4°), alit (32,2° ve 51,7°) ve belit (32,6°) de bulunmaktadır. XRD göstergeleri Tablo 6'da, FTIR göstergeleri Tablo 7'de verilmiştir.
 
 #### Kuru harç
 
@@ -409,7 +475,7 @@ Macunart kuru harcında ön hidratasyon izine rastlanmamıştır. 20 ve 30 µm'd
 | 28 gün | 30 µm | 9858 | 98 | 435 | 4 | 1452 |
 | Kuru harç? (adlandırma şüpheli) | Referans | 9811 | 121 | 718 | 13 | 1604 |
 
-: Çizelge 4. Macunart XRD net pik alanları (k.b.; doğrusal taban çizgisi üzerindeki alan, numune yüksekliği kayması düzeltilmiş)
+: Tablo 6. Macunart XRD net pik alanları (k.b.; doğrusal taban çizgisi üzerindeki alan, numune yüksekliği kayması düzeltilmiş)
 
 | Yaş | Ambalaj | Ölçüm no | n | Ca(OH)₂ 3640 cm⁻¹ (mAbs) | O–H bandı alanı (k.b.) | Si–O bandı minimumu (cm⁻¹) |
 |---|---|---|--:|--:|--:|--:|
@@ -427,16 +493,16 @@ Macunart kuru harcında ön hidratasyon izine rastlanmamıştır. 20 ve 30 µm'd
 | 28 gün | 12 µm | 9873 | 2 | 15,1 (11,8–18,4) | 17715 (13194–22236) | 960 (959–960) |
 | 28 gün | 20 µm | 9872 | 4 | 12,5 (9,6–17,6) | 15951 (13189–20062) | 961 (960–962) |
 
-: Çizelge 5. Macunart FTIR göstergeleri (tekrar ölçümlerin ortalaması; parantez içinde en küçük–en büyük değer)
+: Tablo 7. Macunart FTIR göstergeleri (tekrar ölçümlerin ortalaması; parantez içinde en küçük–en büyük değer)
 
 
 ### 4.4. İzolatex Plus
 
 İzolatex Plus iki bileşenli bir ürün olup ambalaj değişikliği toz bileşeni kapsamaktadır. Kuru harçta kuvars (26,6° ve 20,9°) ile kalsit (29,4°) baskındır; alit ve belit de bulunmaktadır.
 
-Hidrate numunelerin FTIR spektrumlarındaki 2950, 1730, 1160 ve 700 cm⁻¹ bantları sıvı bileşenin polimerine aittir ve stiren-akrilik bir dispersiyonla uyumludur [DOĞRULANACAK]. Bu bantlar 900–1200 cm⁻¹ Si–O bölgesiyle örtüştüğünden İzolatex Plus'ta C-S-H FTIR ile değerlendirilememiştir. Hidrate numunelerdeki 0,1–0,7°'lik kayma düzeltilmiştir (Bölüm 3.5); ancak esnek membran numuneleri düz bir yüzey oluşturmadığı için pik şiddetleri de etkilenmektedir. Göstergeler Çizelge 6 ve 7'de verilmiştir.
+Hidrate numunelerin FTIR spektrumlarındaki 2950, 1730, 1160 ve 700 cm⁻¹ bantları sıvı bileşenin polimerine aittir ve stiren-akrilik bir dispersiyonla uyumludur [DOĞRULANACAK]. Bu bantlar 900–1200 cm⁻¹ Si–O bölgesiyle örtüştüğünden İzolatex Plus'ta C-S-H FTIR ile değerlendirilememiştir. Hidrate numunelerdeki 0,1–0,7°'lik kayma düzeltilmiştir (Bölüm 3.5); ancak esnek membran numuneleri düz bir yüzey oluşturmadığı için pik şiddetleri de etkilenmektedir. Göstergeler Tablo 8 ve 9'da verilmiştir.
 
-"İzolatex 05.05.2026" adlı numuneler Referans olarak alınmıştır. 9725 numarası hem "1.gün" hem "1.gün 12 Mikron" dosyasında kullanıldığından ikincisi 12 µm sayılmıştır. 7 günlük 9807 FTIR numunesinde film kalınlığı yazmadığı için 12 µm varsayılmıştır (çizelgede 12 µm*) [DOĞRULANACAK].
+"İzolatex 05.05.2026" adlı numuneler Referans olarak alınmıştır. 9725 numarası hem "1.gün" hem "1.gün 12 Mikron" dosyasında kullanıldığından ikincisi 12 µm sayılmıştır. 7 günlük 9807 FTIR numunesinde film kalınlığı yazmadığı için 12 µm varsayılmıştır (tabloda 12 µm*) [DOĞRULANACAK].
 
 #### Kuru harç
 
@@ -501,7 +567,7 @@ Etrenjit (15–58) ve portlandit (10–45) tüm ambalajlarda gürültü düzeyin
 | 28 gün | 20 µm | 9845 | 116 | 428 | 30 | 1814 |
 | 7 gün (tekrar) | 30 µm | 9844 | 102 | 509 | 36 | 1644 |
 
-: Çizelge 6. İzolatex Plus XRD net pik alanları (k.b.; doğrusal taban çizgisi üzerindeki alan, numune yüksekliği kayması düzeltilmiş)
+: Tablo 8. İzolatex Plus XRD net pik alanları (k.b.; doğrusal taban çizgisi üzerindeki alan, numune yüksekliği kayması düzeltilmiş)
 
 | Yaş | Ambalaj | Ölçüm no | n | Ca(OH)₂ 3640 cm⁻¹ (mAbs) | O–H bandı alanı (k.b.) | Si–O bandı minimumu (cm⁻¹) |
 |---|---|---|--:|--:|--:|--:|
@@ -514,12 +580,12 @@ Etrenjit (15–58) ve portlandit (10–45) tüm ambalajlarda gürültü düzeyin
 | 28 gün | 12 µm | 9861 | 2 | 18,9 (14,3–23,6) | 18932 (16813–21050) | 962 (961–964) |
 | 7 gün (tekrar) | 30 µm | 9880 | 2 | 17,0 (14,7–19,3) | 17099 (15175–19023) | 961 (960–962) |
 
-: Çizelge 7. İzolatex Plus FTIR göstergeleri (tekrar ölçümlerin ortalaması; parantez içinde en küçük–en büyük değer)
+: Tablo 9. İzolatex Plus FTIR göstergeleri (tekrar ölçümlerin ortalaması; parantez içinde en küçük–en büyük değer)
 
 
 ### 4.5. Technopool
 
-Technopool'da kuvars (26,6°) ve feldispat (27,6–28,0°) baskın olup kalsit, alit ve belit de bulunmaktadır. Bu üründe 30 µm ambalaj test edilmemiştir. Kum içeriği nedeniyle FTIR'daki Si–O bölgesi kuvarsın ~1080 cm⁻¹ bandıyla örtüşmektedir. Göstergeler Çizelge 8 ve 9'da verilmiştir.
+Technopool'da kuvars (26,6°) ve feldispat (27,6–28,0°) baskın olup kalsit, alit ve belit de bulunmaktadır. Bu üründe 30 µm ambalaj test edilmemiştir. Kum içeriği nedeniyle FTIR'daki Si–O bölgesi kuvarsın ~1080 cm⁻¹ bandıyla örtüşmektedir. Göstergeler Tablo 10 ve 11'de verilmiştir.
 
 #### Kuru harç
 
@@ -585,7 +651,7 @@ Technopool kuru harcında ön hidratasyon izi görülmemesine karşın Referans 
 | 28 gün | 20 µm | 9820 | 181 | 516 | 3 | 147 |
 | 7 gün (durdurulmamış) | 20 µm | 9741 | 301 | 994 | 34 | 333 |
 
-: Çizelge 8. Technopool XRD net pik alanları (k.b.; doğrusal taban çizgisi üzerindeki alan, numune yüksekliği kayması düzeltilmiş)
+: Tablo 10. Technopool XRD net pik alanları (k.b.; doğrusal taban çizgisi üzerindeki alan, numune yüksekliği kayması düzeltilmiş)
 
 | Yaş | Ambalaj | Ölçüm no | n | Ca(OH)₂ 3640 cm⁻¹ (mAbs) | O–H bandı alanı (k.b.) | Si–O bandı minimumu (cm⁻¹) |
 |---|---|---|--:|--:|--:|--:|
@@ -597,12 +663,12 @@ Technopool kuru harcında ön hidratasyon izi görülmemesine karşın Referans 
 | 7 gün | 20 µm | 9797 | 1 | 9,5 | 15973 | 991 |
 | 28 gün | 12 µm | 9855 | 2 | 6,9 (5,8–8,0) | 15577 (13572–17581) | 982 (980–983) |
 
-: Çizelge 9. Technopool FTIR göstergeleri (tekrar ölçümlerin ortalaması; parantez içinde en küçük–en büyük değer)
+: Tablo 11. Technopool FTIR göstergeleri (tekrar ölçümlerin ortalaması; parantez içinde en küçük–en büyük değer)
 
 
-# 5. Genel Değerlendirme
+# 5. Sonuçlar
 
-Macunart, İzolatex Plus ve Technopool'un XRD göstergeleri Şekil 35'te, beş ürünün özeti Çizelge 10'da verilmiştir.
+Macunart, İzolatex Plus ve Technopool'un XRD göstergeleri Şekil 35'te, beş ürünün özeti Tablo 12'de verilmiştir.
 
 
 ![Şekil 35. XRD göstergelerinin (net pik alanı) yaşa ve ambalaj tipine göre değişimi](sekiller/OZET_XRD.png){width=16cm}
@@ -616,43 +682,61 @@ Macunart, İzolatex Plus ve Technopool'un XRD göstergeleri Şekil 35'te, beş �
 | İzolatex Plus | Yok (alçı taşı farkı izlenmeli) | Veri tekrarlanabilir değil | 20 > 12 µm ≈ Ref | Olumsuz etki yok |
 | Technopool | Yok | Ref > 12 ≥ 20 µm | Ref ≈ 12 > 20 µm | Ref önde, 20 µm geride |
 
-: Çizelge 10. Ürün bazında özet (*önceki rapordan; bu ürünlerin kuru harç ölçümü raporda yoktur)
+: Tablo 12. Ürün bazında özet (*önceki rapordan; bu ürünlerin kuru harç ölçümü raporda yoktur)
 
-Macunart, İzolatex Plus ve Technopool kuru harçlarının hiçbirinde etrenjit ya da portlandit oluşmamış ve alit korunmuştur; Macunart'ta FTIR sonuçları da aynı yöndedir. Bununla birlikte XRD kristalin fazları genellikle yaklaşık %1'in üzerinde saptayabildiğinden, nemden en çok etkilenen C₃A ve serbest kireçteki yüzeysel değişimler (Dubina ve diğerleri, 2011) ile amorf ön hidratasyon ürünleri bu yöntemle görülmeyebilir.
+Macunart, İzolatex Plus ve Technopool kuru harçlarının hiçbirinde etrenjit ya da portlandit oluşmamış ve alit korunmuştur; Macunart'ta FTIR sonuçları da aynı yöndedir. Bununla birlikte XRD kristalin fazları genellikle yaklaşık %1'in üzerinde saptayabildiğinden, nemden en çok etkilenen C₃A ve serbest kireçteki yüzeysel değişimler [7] ile amorf ön hidratasyon ürünleri bu yöntemle görülmeyebilir.
 
-Ambalajın hidratasyona etkisi ürüne göre değişmektedir. Bütün ürünlerde kötü sonuç veren tek bir ambalaj tipi olmadığı gibi film kalınlığı arttıkça sonuçların iyileştiği bir eğilim de görülmemiştir. Numuneler arasındaki farkların bir kısmı numune hazırlama ve ölçüm değişkenliğinden kaynaklanıyor olabilir.
+Ambalajın hidratasyona etkisi ürüne göre değişmektedir. Bütün ürünlerde kötü sonuç veren tek bir ambalaj tipi olmadığı gibi film kalınlığı arttıkça sonuçların iyileştiği bir eğilim de görülmemiştir. Bu sonuç, WVTR'nin film kalınlığıyla her zaman ters orantılı olmadığı bilgisiyle [8] birlikte, torbaların bariyer performansının kalınlık yerine ölçülmüş WVTR değerleriyle karşılaştırılması gerektiğini göstermektedir. Numuneler arasındaki farkların bir kısmı numune hazırlama ve ölçüm değişkenliğinden de kaynaklanıyor olabilir.
 
 Referansın her yaşta önde olduğu tek ürün Technopool'dur ve bu üründe 20 µm 28. günde de geride kalmıştır.
 
-Projenin hedefi açısından ara bulgular şöyledir. Macunart ve İzolatex Plus'ta 12 ve 20 µm ambalajların, 2 yıllık depolamaya karşılık kabul edilen yaşlandırmadan sonra ön hidratasyona yol açtığını gösteren mineralojik bir bulgu yoktur; bu iki üründe mikroyapı verileri ambalaj bariyerinin revize edilmesini gerektirmemektedir. Technopool ise ambalaj bariyerinin yeniden değerlendirilmesi gerekebilecek tek üründür ve bu üründe karar performans testlerine göre verilmelidir.
+Projenin hedefi açısından ara bulgular şöyledir. Macunart ve İzolatex Plus'ta 12 ve 20 µm ambalajların, 2 yıllık depolamaya karşılık kabul edilen yaşlandırmadan sonra ön hidratasyona yol açtığını gösteren mineralojik bir bulgu yoktur; bu iki üründe mikroyapı verileri ambalaj bariyerinin revize edilmesini gerektirmemektedir. Technopool ise ambalaj bariyerinin yeniden değerlendirilmesi gerekebilecek tek üründür ve bu üründe karar performans testlerine göre verilmelidir. 2025 çalışmasında neme en duyarlı ürünlerin CAC içeren ikili ve üçlü sistemler olduğu görülmüştür [1]. Bu nedenle bariyer revizyonu değerlendirmesinde öncelik CAC içeren ürünlere verilmelidir.
 
-Sonuçlar henüz iklim profiline göre ayrıştırılamamaktadır. Numunelerin hangi profile tabi tutulduğu kayıtlarda yer almamakta ve bu raporda her ürün için tek bir yaşlandırma süresi bulunmaktadır. Farklı pazarlar için SKT önerisi verebilmek amacıyla her ürünün sıcak ve soğuk profillerde ayrı ayrı ve birden fazla yaşlandırma süresinde test edilmesi gerekir. SKT kararı ayrıca Referansla karşılaştırmalı performans testlerine (Ürün Listesi – Testler sayfası: kıvam, priz, yapışma, basınç ve eğilme dayanımı, kap ömrü vb.) dayanmalıdır [VERİ GEREKLİ].
+Sonuçlar henüz iklim profiline göre ayrıştırılamamaktadır. Numunelerin hangi profile tabi tutulduğu kayıtlarda yer almamakta ve bu raporda her ürün için tek bir yaşlandırma süresi bulunmaktadır. Farklı pazarlar için SKT önerisi verebilmek amacıyla her ürünün sıcak ve soğuk profillerde ayrı ayrı ve birden fazla yaşlandırma süresinde test edilmesi gerekir. SKT kararı ayrıca Tablo 5'teki performans testlerinin Referansla karşılaştırmalı sonuçlarına dayanmalıdır [VERİ GEREKLİ].
 
-# 6. Öneriler
+# 6. Öneriler ve Gelecek Çalışmalar
 
 - Her numunenin hangi iklim profiline tabi tutulduğu kayda geçirilmeli; sıcak ve soğuk profiller aynı ürün ve ambalajda ayrı ayrı uygulanmalıdır.
-- SKT'nin süreye bağlı değişimini görebilmek için ara yaşlandırma süreleri (örneğin 6 ve 12 ay eşdeğeri) eklenmelidir.
+- SKT'nin süreye bağlı değişimini görebilmek için ara yaşlandırma süreleri (örneğin 6 ve 12 ay eşdeğeri) eklenmeli ve "45 gün = 2 yıl" eşdeğerliği gerçek zamanlı depolanan numunelerle doğrulanmalıdır [9].
+- Ambalaj bariyer revizyonuna temel oluşturmak için Referans ambalajın yapısı belirlenmeli ve tüm torbaların WVTR değerleri ölçülmelidir [8].
 - Eksik ölçümler tamamlanmalıdır: Macunart 28 gün Referans ve 20 µm XRD; Technopool 28 gün Referans ve 20 µm FTIR; İzolatex Plus 28 gün 30 µm XRD ve FTIR; İzolatex Plus ve Technopool kuru harç FTIR.
-- Kuru harçlarda 40–200 °C (bağlı su) ve 400–500 °C (portlandit) kütle kayıpları TGA ile Referansla karşılaştırmalı ölçülmelidir. TGA, XRD'de görünmeyen amorf ön hidratasyonu da yansıtır.
-- Neme en duyarlı fazlar olan C₃A (kübik ve ortorombik), alçı taşı, basanit ve anhidrit kuru harçlarda Rietveld analiziyle belirlenmelidir.
+- Kuru harçlarda 40–200 °C (bağlı su) ve 400–500 °C (portlandit) kütle kayıpları TGA ile Referansla karşılaştırmalı ölçülmelidir. TGA, XRD'de görünmeyen amorf ön hidratasyonu da yansıtır [10].
+- Neme en duyarlı fazlar olan C₃A (kübik ve ortorombik), alçı taşı, basanit ve anhidrit kuru harçlarda Rietveld analiziyle belirlenmelidir [7, 11].
 - XRD en az iki bağımsız numuneyle tekrarlanmalı, agregalı ürünlerde numune 63 µm altına öğütülmeli ya da elenmeli, İzolatex Plus gibi esnek numunelerde yüzey tutucu seviyesine getirilmelidir.
-- Tüm yaşlarda aynı durdurma işlemi uygulanmalıdır; RILEM önerisi izopropanol ile solvent değişimidir (Snellings ve diğerleri, 2018).
-- Ambalaj bariyer revizyonuna temel oluşturmak için Referans ambalajın yapısı ve tüm torbaların su buharı geçirgenliği (WVTR) ölçülmelidir. Nem bariyeri film kalınlığının yanı sıra torbanın katman yapısına da bağlıdır.
+- Tüm yaşlarda aynı durdurma talimatı (AG_YK_TL_0397) uygulanmalıdır. RILEM önerisindeki izopropanol ile solvent değişimi [12] talimatla karşılaştırmalı olarak denenebilir.
 
-# Kaynaklar
+# Kaynakça
 
-Dubina, E., Wadsö, L., & Plank, J. (2011). A sorption balance study of water vapour sorption on anhydrous cement minerals and cement constituents. *Cement and Concrete Research, 41*(11), 1196–1204. https://doi.org/10.1016/j.cemconres.2011.07.009
+[1] Kalekim Ar-Ge. (2025). *Tekli, İkili ve Üçlü Bağlayıcı Sistemlere Sahip Ürünlerin Raf Ömürlerinin Performans Özelliklerine Etkilerinin İncelenmesi – 2025 Çalışmaları Raporu*. Kurum içi rapor (Hizmete Özel).
 
-Scrivener, K., Snellings, R., & Lothenbach, B. (Eds.). (2016). *A practical guide to microstructural analysis of cementitious materials*. CRC Press. ISBN 978-1-4987-3865-1
+[2] Taylor, H. F. W. (1997). *Cement chemistry* (2nd ed.). London: Thomas Telford. ISBN 0-7277-2592-0.
 
-Snellings, R., vd. (2018). RILEM TC-238 SCM recommendation on hydration stoppage by solvent exchange for the study of hydrate assemblages. *Materials and Structures, 51*(6), 172. https://doi.org/10.1617/s11527-018-1298-5 [yazar listesi DOI sayfasından DOĞRULANACAK]
+[3] Lothenbach, B., Le Saout, G., Gallucci, E., & Scrivener, K. (2008). Influence of limestone on the hydration of Portland cements. *Cement and Concrete Research, 38*(6), 848–860. https://doi.org/10.1016/j.cemconres.2008.01.002
 
-Whittaker, M., Dubina, E., Al-Mutawa, F., vd. (2013). The effect of prehydration on the engineering properties of CEM I Portland cement. *Advances in Cement Research, 25*(1), 12–20. https://doi.org/10.1680/adcr.12.00030
+[4] Matschei, T., Lothenbach, B., & Glasser, F. P. (2007). The AFm phase in Portland cement. *Cement and Concrete Research, 37*(2), 118–130. https://doi.org/10.1016/j.cemconres.2006.10.010
 
-Ylmén, R., Jäglid, U., Steenari, B.-M., & Panas, I. (2009). Early hydration and setting of Portland cement monitored by IR, SEM and Vicat techniques. *Cement and Concrete Research, 39*(5), 433–439. https://doi.org/10.1016/j.cemconres.2009.01.017
+[5] Lamberet, S. (2004). *Durability of ternary binders based on Portland cement, calcium aluminate cement and calcium sulfate* (Doktora tezi No. 3151). École Polytechnique Fédérale de Lausanne.
 
-Yu, P., Kirkpatrick, R. J., Poe, B., McMillan, P. F., & Cong, X. (1999). Structure of calcium silicate hydrate (C-S-H): Near-, mid-, and far-infrared spectroscopy. *Journal of the American Ceramic Society, 82*(3), 742–748. https://doi.org/10.1111/j.1151-2916.1999.tb01826.x
+[6] Whittaker, M., Dubina, E., Al-Mutawa, F., vd. (2013). The effect of prehydration on the engineering properties of CEM I Portland cement. *Advances in Cement Research, 25*(1), 12–20. https://doi.org/10.1680/adcr.12.00030
+
+[7] Dubina, E., Wadsö, L., & Plank, J. (2011). A sorption balance study of water vapour sorption on anhydrous cement minerals and cement constituents. *Cement and Concrete Research, 41*(11), 1196–1204. https://doi.org/10.1016/j.cemconres.2011.07.009
+
+[8] ASTM International. (2020). *ASTM F1249-20: Standard test method for water vapor transmission rate through plastic film and sheeting using a modulated infrared sensor*. West Conshohocken, PA. [yürürlükteki baskı DOĞRULANACAK]
+
+[9] ASTM International. (2021). *ASTM F1980-21: Standard guide for accelerated aging of sterile barrier systems and medical devices*. West Conshohocken, PA.
+
+[10] Scrivener, K., Snellings, R., & Lothenbach, B. (Eds.). (2016). *A practical guide to microstructural analysis of cementitious materials*. Boca Raton: CRC Press. ISBN 978-1-4987-3865-1.
+
+[11] Scrivener, K. L., Füllmann, T., Gallucci, E., Walenta, G., & Bermejo, E. (2004). Quantitative study of Portland cement hydration by X-ray diffraction/Rietveld analysis and independent methods. *Cement and Concrete Research, 34*(9), 1541–1547. https://doi.org/10.1016/j.cemconres.2004.04.014
+
+[12] Snellings, R., vd. (2018). RILEM TC-238 SCM recommendation on hydration stoppage by solvent exchange for the study of hydrate assemblages. *Materials and Structures, 51*(6), 172. https://doi.org/10.1617/s11527-018-1298-5 [yazar listesi DOĞRULANACAK]
+
+[13] Ylmén, R., Jäglid, U., Steenari, B.-M., & Panas, I. (2009). Early hydration and setting of Portland cement monitored by IR, SEM and Vicat techniques. *Cement and Concrete Research, 39*(5), 433–439. https://doi.org/10.1016/j.cemconres.2009.01.017
+
+[14] Yu, P., Kirkpatrick, R. J., Poe, B., McMillan, P. F., & Cong, X. (1999). Structure of calcium silicate hydrate (C-S-H): Near-, mid-, and far-infrared spectroscopy. *Journal of the American Ceramic Society, 82*(3), 742–748. https://doi.org/10.1111/j.1151-2916.1999.tb01826.x
+
+[15] Trezza, M. A., & Lavat, A. E. (2001). Analysis of the system 3CaO·Al₂O₃–CaSO₄·2H₂O–CaCO₃–H₂O by FT-IR spectroscopy. *Cement and Concrete Research, 31*(6), 869–872. https://doi.org/10.1016/S0008-8846(01)00502-6
 
 # Ek A. Veri Dosyaları
 
-Ham veriler `veri/xrd/` ve `veri/ftir/` klasörlerinde, hesaplanan göstergeler `sekiller/gostergeler.json` dosyasında, grafikleri ve çizelgeleri üreten kodlar `kod/` klasöründe bulunmaktadır. Ölçüm numaraları Çizelge 4–9'da verilmiştir; XRD ve FTIR ölçüm numaraları birbirinden bağımsızdır.
+Ham veriler `veri/xrd/` ve `veri/ftir/` klasörlerinde, hesaplanan göstergeler `sekiller/gostergeler.json` dosyasında, grafikleri ve tabloları üreten kodlar `kod/` klasöründe bulunmaktadır. Ölçüm numaraları Tablo 6–11'de verilmiştir; XRD ve FTIR ölçüm numaraları birbirinden bağımsızdır.
