@@ -51,7 +51,7 @@ def xrd_fig(urun,yas,anahtarlar,dosya,baslik):
         ax.axvline(t,color='#c3c2b7',lw=0.4,ls=':',zorder=0)
         ax.text(t,1.005+0.035*(j%2),l,fontsize=6,ha='center',va='bottom',color='#52514e',transform=ax.get_xaxis_transform())
     ax.set_xlabel('2θ (°, Cu Kα; numune yüksekliği kayması düzeltilmiş)'); ax.set_ylabel('Şiddet (k.b., kaydırılmış)'); ax.set_yticks([])
-    ax.set_title(baslik,fontsize=10,loc='left',color='#0b0b0b',pad=18)
+    pass  # başlık Word'deki şekil altyazısında
     for j,(a,b,ad) in enumerate([(8.2,12.2,'Etrenjit / AFm / alçı'),(17.4,18.7,'Portlandit (001)'),(31.6,33.0,'Alit / belit')]):
         az=fig.add_subplot(gs[1,j])
         for amb,n,tt,y in seri:
@@ -105,7 +105,7 @@ def ftir_fig(urun,yas,anahtarlar,dosya,baslik):
     for c,l in [(1110,'SO₄²⁻ (Et)'),(970,'Si–O (C-S-H)'),(920,'Si–O (alit)'),(875,'CO₃²⁻'),(797,'Q'),(728,'D')]:
         axs[1].axvline(c,color='#c3c2b7',lw=0.5,ls=':',zorder=0); axs[1].text(c,1.01,l,fontsize=5.5,rotation=90,va='bottom',ha='center',color='#52514e',transform=axs[1].get_xaxis_transform())
     axs[0].legend(fontsize=6.5,frameon=False,loc='lower left'); 
-    fig.suptitle(baslik,fontsize=10,x=0.01,y=1.13,ha='left',color='#0b0b0b')
+    pass  # başlık Word'deki şekil altyazısında
     fig.savefig(dosya,bbox_inches='tight'); plt.close(fig)
     return [s[1] for s in seri]
 sekil=[]
