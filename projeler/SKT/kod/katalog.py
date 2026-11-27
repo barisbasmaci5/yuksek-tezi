@@ -28,7 +28,7 @@ XRD={
  ('İzolatex Plus',7,'12'):['#U0130zolatex/9753- IzolatexPlus 12 mic 05.05.2026 7.Gun.rd'],
  ('İzolatex Plus',7,'20'):['#U0130zolatex/9765- IzolatexPlus 20 mic 7.Gun.rd'],
  ('İzolatex Plus',7,'30'):['#U0130zolatex/9766- IzolatexPlus 30 mic 7.Gun.rd'],
- ('İzolatex Plus','7b','30'):['#U0130zolatex/9844-Izolatex Plus 30 Mic 7.G#U00fcn.rd'],
+ ('İzolatex Plus',28,'30'):['#U0130zolatex/9844-Izolatex Plus 30 Mic 7.G#U00fcn.rd'],  # dosya adı '7.Gün'; ölçüm sırası ve değerler 28. günle uyumlu
  ('İzolatex Plus',28,'Ref'):['#U0130zolatex/9821-Izolatex 05.05.2026 28.gun.rd'],
  ('İzolatex Plus',28,'12'):['#U0130zolatex/9822-Izolatex Plus 12 Mic 05.05.2026 28.G#U00fcn.rd'],
  ('İzolatex Plus',28,'20'):['#U0130zolatex/9845-Izolatex Plus 20 Mic 28.gun.rd'],
@@ -55,7 +55,7 @@ FTIR={
  ('Macunart',7,'Ref'):_f('9871'),('Macunart',7,'12'):_f('9839'),('Macunart',7,'20'):_f('9837'),('Macunart',7,'30'):_f('9840'),
  ('Macunart',28,'12'):_f('9873'),('Macunart',28,'20'):_f('9872'),
  ('İzolatex Plus',1,'Ref'):_f('9786'),('İzolatex Plus',1,'12'):_f('9787'),
- ('İzolatex Plus',7,'Ref'):_f('9806'),('İzolatex Plus',7,'12?'):_f('9807'),('İzolatex Plus',7,'30'):_f('9816'),('İzolatex Plus','7b','30'):_f('9880'),
+ ('İzolatex Plus',7,'Ref'):_f('9806'),('İzolatex Plus',7,'12?'):_f('9807'),('İzolatex Plus',7,'30'):_f('9816'),('İzolatex Plus',28,'30'):_f('9880'),  # dosya adı '7.Gun'; ölçüm tarihi 05.06.2026 (28. gün ölçümleriyle aynı hafta)
  ('İzolatex Plus',28,'Ref'):_f('9860'),('İzolatex Plus',28,'12'):_f('9861'),
  ('Technopool',1,'Ref'):_f('9785'),('Technopool',1,'12'):_f('9783'),('Technopool',1,'20'):_f('9784'),
  ('Technopool',7,'Ref'):_f('9798'),('Technopool',7,'12'):_f('9793'),('Technopool',7,'20'):_f('9797'),

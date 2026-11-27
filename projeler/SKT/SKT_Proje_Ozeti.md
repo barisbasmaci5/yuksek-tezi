@@ -13,10 +13,10 @@ Proje, farklı iklim koşullarında ürün stabilitesini artırmak ve raf ömrü
 
 | Konu | Açıklama |
 |------|------------------------------|
-| Ürünler | Groutart Rapid, Mastar 10, Macunart, İzolatex Plus (toz bileşen), Technopool |
+| Ürünler | Groutart Rapid (ikili), Mastar 10 (üçlü), Macunart, İzolatex Plus (tekli, iki bileşenli), Technopool (tekli) |
 | Ambalajlar | Referans (mevcut Kalekim ambalajı), 12 µm, 20 µm ve 30 µm iç film kalınlığında torbalar |
 | Yaşlandırma | Soğuk ve sıcak iklim profilleri (sıcaklık, nem, yağış; 24 saatlik döngü). 45 günlük uygulama 2 yıllık depolamaya eşdeğer kabul edilmiştir. Soğuk profil: 06.03–21.04.2026 |
-| Mikroyapı | Kuru harç ile 1, 7 ve 28 günlük hidrate numunelerde XRD (44 ölçüm) ve FTIR (59 ölçüm) |
+| Mikroyapı | Kuru harç ile 1, 7 ve 28 günlük hidrate numunelerde XRD (44 ölçüm) ve FTIR (59 ölçüm). Hidrate numuneler teknik föylerdeki karışım oranlarıyla hazırlandı; hidratasyon AG_YK_TL_0397 talimatıyla durduruldu |
 | Değerlendirme | Etrenjit, portlandit ve alit için net XRD pik alanları; FTIR'da portlandit bandı, O–H bandı ve Si–O bandı konumu |
 | Performans | Ürün bazında tanımlandı (yapışma, basınç/eğilme dayanımı, priz, kap ömrü vb.); sonuçlar henüz yok |
 
@@ -30,8 +30,8 @@ Kuru harçta ön hidratasyon görülmemiştir: Macunart, İzolatex Plus ve Techn
 |--------|------------------------------|----------|
 | Groutart Rapid | 20 µm en dengeli hidratasyonu göstermiştir. | Olumsuz etki yok |
 | Mastar 10 | 30 µm üç yaşta da üst sıralardadır. | Olumsuz etki yok |
-| Macunart | 1. günde 20 ve 30 µm'de portlandit yaklaşık yarı düzeydedir (504 ve 436; Ref 959). Fark 7. günde kapanmıştır. 12 µm her yaşta Referansa eşit ya da üstündür. | Olumsuz etki yok |
-| İzolatex Plus | 28. günde 20 µm > 12 µm ≈ Ref. Erken yaş verileri tekrarlanabilir değildir; aynı numunenin iki ölçümü arasında yaklaşık 10 kat fark vardır. | Olumsuz etki yok; alçı taşı farkı izlenmeli |
+| Macunart | 1. günde 20 ve 30 µm'de portlandit yaklaşık yarı düzeydedir (504 ve 436; Ref 959). Fark 7. günde kapanmıştır. 12 µm her yaşta Referansa eşit ya da üstündür. Referansın 7 günlük XRD değeri beklenenden düşüktür; ölçüm tekrarlanmalıdır. | Olumsuz etki yok |
+| İzolatex Plus | 7. günde 12 µm > Ref > 20 > 30 µm (XRD ve FTIR uyumlu). 28. günde 30 ≈ 20 > 12 µm ≈ Ref; 30 µm erken yaşta geride kalsa da 28. günde en yüksek portlandit değerini vermiştir. | Olumsuz etki yok; alçı taşı farkı izlenmeli |
 | Technopool | Referans her yaşta öndedir: 1. günde portlandit yaklaşık 2 kat, 7. günde yaklaşık %26 yüksektir. 28. günde 12 µm Referansa yaklaşmış (713 ve 748), 20 µm geride kalmıştır (516). | Bariyer yeniden değerlendirilmeli |
 
 Film kalınlığı tek başına belirleyici değildir. Kalınlık arttıkça sonuçların iyileştiği bir eğilim görülmemiştir. Torbalar ölçülmüş su buharı geçirgenliği (WVTR) değerleriyle karşılaştırılmalıdır.
@@ -40,15 +40,13 @@ Yöntemle ilgili iki tespit yapılmıştır. Hidratasyonu durdurulmayan numunede
 
 # Projeye Etkisi
 
-Mikroyapı verilerine göre Macunart ve İzolatex Plus'ta 12 ve 20 µm ambalajlar için bariyer revizyonu gerekmemektedir. Technopool, ambalaj bariyerinin yeniden değerlendirilmesi gerekebilecek tek üründür. 2025 bulguları dikkate alındığında bariyer revizyonunda öncelik CAC içeren ürünlere verilmelidir. Sonuçlar henüz iklim profiline göre ayrıştırılamadığından pazara özel SKT önerisi verilememektedir. SKT kararı performans testleriyle birlikte verilecektir.
+Mikroyapı verilerine göre Macunart ve İzolatex Plus'ta 12 ve 20 µm ambalajlar için bariyer revizyonu gerekmemektedir. Technopool, ambalaj bariyerinin yeniden değerlendirilmesi gerekebilecek tek üründür. 2025 çalışmasında neme en duyarlı ürünler CAC içerenler olmuştu; bu çalışmada ise CAC içeren Groutart Rapid ve Mastar 10'da olumsuz etki görülmemiş, geride kalan ürün tekli bağlayıcılı Technopool olmuştur. Bu nedenle bariyer değerlendirmesi ürün bazında yapılmalıdır. Sonuçlar henüz iklim profiline göre ayrıştırılamadığından pazara özel SKT önerisi verilememektedir. SKT kararı performans testleriyle birlikte verilecektir.
 
 # Açık Noktalar
 
 - Hangi ürünün hangi iklim profiline girdiği ve sıcak profilin uygulama tarihleri
-- Referans ambalajın yapısı ve film kalınlığı
-- Performans test sonuçları; Izoseal ve Izostop verileri
-- Ürünlerin bağlayıcı sistemleri (Mastar 10 dışında) ve uygulanacak standartlar
-- Kayıt tutarsızlıkları: Macunart 9811 "Ref Kuru Harç" ölçümü sertleşmiş numune deseni vermektedir; İzolatex numune adlandırmaları (9725, 9807) kontrol edilmelidir
+- Macunart'ın bağlayıcı sistemi
+- Performans test sonuçları ve uygulanacak standartlar (sonraki raporda eklenecek)
 
 # Sonraki Adımlar
 
@@ -57,6 +55,6 @@ Mikroyapı verilerine göre Macunart ve İzolatex Plus'ta 12 ve 20 µm ambalajla
 3. Kuru harçlarda TGA ile bağlı su ve portlandit ölçmek; neme duyarlı fazları (C₃A, alçı taşı, basanit, anhidrit) Rietveld analiziyle belirlemek.
 4. Sıcak ve soğuk profilleri her ürün ve ambalajda ayrı uygulamak, ara yaşlandırma süreleri (6 ve 12 ay eşdeğeri) eklemek.
 5. "45 gün = 2 yıl" eşdeğerliğini gerçek zamanlı depolanan numunelerle doğrulamak.
-6. Eksik XRD ve FTIR ölçümlerini tamamlamak ve XRD'yi en az iki bağımsız numuneyle tekrarlamak.
+6. Macunart Referans 7 günlük XRD ölçümünü tekrarlamak, XRD'yi en az iki bağımsız numuneyle yapmak ve numune adlandırmasını ölçüm sırasında kontrol etmek (İzolatex Plus 9844 ve 9880 ölçümlerinin yaşı dosya adından farklı çıkmıştır).
 
 Ayrıntılar, şekiller ve kaynaklar için: *SKT Proje Raporu (ara rapor, Kasım 2026)*.

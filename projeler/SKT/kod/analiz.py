@@ -116,10 +116,8 @@ for urun,kod in [('Macunart','MA'),('İzolatex Plus','IZ'),('Technopool','TP')]:
         r=ftir_fig(urun,yas,FTIR,f'{OUT}/{kod}_FTIR_{yas}.png',f'{urun} – {YAS[yas]} FTIR spektrumları')
         if r: sekil.append(('FTIR',urun,yas,f'{kod}_FTIR_{yas}.png',r))
 # ek numuneler (tablo için)
-for k in [('Macunart','K2','Ref'),('İzolatex Plus','7b','30'),('Technopool','7nd','20')]:
+for k in [('Macunart','K2','Ref'),('Technopool','7nd','20')]:
     tt,y,_=read_rd(BASE+X+XRD[k][0]); tt=hizala(k[0],tt,y,no(XRD[k][0])); xrd_tab[(k[0],str(k[1]),k[2])]={'no':no(XRD[k][0]),**{p:round(net_alan(tt,y,*w)) for p,w in PEN.items()}}
 x,T=None,None
-g=[ftir_gosterge('İzolatex Plus',*read_csv(f)) for f in FTIR[('İzolatex Plus','7b','30')]]
-ftir_tab[('İzolatex Plus','7b','30')]={'no':'9880','n':len(g),**{k:[float(np.mean([gg[k] for gg in g])),float(min(gg[k] for gg in g)),float(max(gg[k] for gg in g))] for k in g[0]}}
 json.dump({'sekil':sekil,'xrd':{'|'.join(k):v for k,v in xrd_tab.items()},'ftir':{'|'.join(k):v for k,v in ftir_tab.items()},'kayma':kayma},open(f'{OUT}/gostergeler.json','w'),ensure_ascii=False,indent=1)
 print(len(sekil),'şekil')
